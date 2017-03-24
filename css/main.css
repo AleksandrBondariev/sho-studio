@@ -364,7 +364,7 @@ th {
   display: block;
   clear: both; }
 
-.main-box .btn, .about-team .team-wrap .social a, .love-of-work .btn, .contact-us form button {
+#header ul li a, .main-box .btn, .about-team .team-wrap .social a, .love-of-work .btn, .contact-us form button {
   -webkit-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out; }
 

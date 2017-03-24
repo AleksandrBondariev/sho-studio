@@ -106,6 +106,7 @@ $media-expressions: (
         }
       }
       a{
+      	@extend %transition;
         font-weight:bold;
         color:inherit;
         &:hover{
